@@ -2,7 +2,10 @@
     "title": "Freelancer",
     "name": "moody-portfolio",
     "version": "4.0.0",
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
+    "description": "A freelancer.",
+    "scripts": {
+        "start": "npm run index.php"
+    },
     "keywords": [
         "css",
         "sass",
@@ -11,19 +14,10 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/freelancer",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+        "url": "https://github.com/Moodyc21/professional_portfolio"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
