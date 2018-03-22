@@ -3,9 +3,7 @@
     "name": "moody-portfolio",
     "version": "4.0.0",
     "description": "A freelancer.",
-    "scripts": {
-        "start": "npm start"
-    },
+    
     "keywords": [
         "css",
         "sass",
