@@ -4,7 +4,7 @@
     "version": "4.0.0",
     "description": "A freelancer.",
     "scripts": {
-        "start": "npm run index.php"
+        "start": "npm run home.html"
     },
     "keywords": [
         "css",
